@@ -61,6 +61,7 @@
         font-size:11vw;
         top:2vw;
         left:1vw;
+        font-weight: 900;
     }
 
     .leader-text h3{
@@ -71,7 +72,7 @@
         font-size:16vw;
         left:40vw;
         top:8vw;
-
+        font-weight: 900;
     }
 
     .leader-text h4{
@@ -82,6 +83,7 @@
         font-size:12vw;
         top: 33vw;
         left:25vw;
+        font-weight: 900;
     }
 
     .leader img{
