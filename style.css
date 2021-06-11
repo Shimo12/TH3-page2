@@ -1,0 +1,260 @@
+
+@media screen and (max-width:750px){
+
+    *{
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .header{
+        position: fixed;
+        height:30vh;
+        z-index: 10;
+    }
+    .top{
+        padding-top:10vw;
+        height:100vw;
+        position: relative;
+    }
+
+    .header img{
+        width:25vw;
+    }
+
+    .top-image img{
+        width:100%;
+        
+    }
+
+    .top-text h1{
+        position: absolute;
+        top:-7vw;
+        left:2vw;
+        font-size: 23vw;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .top-text h2{
+        position: absolute;
+        top:20vw;
+        left:70vw;
+        font-size: 27vw;
+        line-height: 105%;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .leader{
+        position: relative;
+        height:35vh;
+    }
+
+
+    .leader-text h2{
+        position: absolute;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size:11vw;
+        top:2vw;
+        left:1vw;
+    }
+
+    .leader-text h3{
+        position: absolute;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size:16vw;
+        left:40vw;
+        top:8vw;
+
+    }
+
+    .leader-text h4{
+        position: absolute;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size:12vw;
+        top: 33vw;
+        left:25vw;
+    }
+
+    .leader img{
+        width:100%;
+    }
+
+    .leader2{
+        position: relative;
+        height:50vw;
+    }
+
+    .leader2 h1{
+        margin-top: 20vw;
+        text-align: center;
+        font-size:5vw;
+    }
+
+    .leader2 span{
+        font-size:6.5vw;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .leader2 img{
+        width:35vw;
+        margin-left:5vw;
+        margin-top: 25vw;
+    }
+
+    .content1{
+        position: relative;
+        height:45vw;
+    }
+
+    .content1 h1{
+        position: absolute;
+        top:-10vw;
+        left:5vw;
+        font-size: 6vw;
+        text-align: left;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .content1 h2{
+        position: absolute;
+        font-size: 4vw;
+        top:25vw;
+        left:43vw;
+    }
+
+    .content1 h3{
+        font-size: 3vw;
+        position: absolute;
+        top:35vw;
+        left:45vw;
+    }
+
+    .content2{
+        position: relative;
+        height:45vw;
+    }
+
+    .content2 h1{
+        position: absolute;
+        top:-25vw;
+        left:5vw;
+        font-size: 6vw;
+        text-align: left;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .content2 h2{
+        position: absolute;
+        font-size: 4vw;
+        top:25vw;
+        left:43vw;
+    }
+
+    .content2 h3{
+        font-size: 3vw;
+        position: absolute;
+        top:35vw;
+        left:45vw;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .leader3{
+        position: relative;
+        height:90vw;
+
+    }
+    .leader3 h1{
+        position:absolute;
+        font-size: 7vw;
+        text-align: left;
+        top:10vw;
+        left:3vw;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .leader3 img{
+        margin-left: 0;
+        width:100vw;
+    }
+
+    .leader3 h2{
+        position: absolute;
+        top:42.5vw;
+        left:3.6vw;
+        font-size:2.5vw;
+        color:rgba(255, 255, 255, 0.87);
+        font-weight: 500;
+        letter-spacing:0.01vw;
+        
+    }
+    
+    .offer{
+        position: relative;
+        height: 40vh;
+    }
+
+    .offer h1{
+        text-align: center;
+        font-size:10vw;
+        padding-bottom:0vw;
+        margin-bottom: 0vw;
+        background: url(4.png);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    
+    .offer h2{
+        padding-top: 0vw;
+        text-align: center;
+        font-size: 4.4vw;
+    }
+
+    .menu{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .menu img{
+        width:20vw;
+        margin:6vw
+    }
+    
+}
+
+
+
+
+
+
+    
+
+    
+
