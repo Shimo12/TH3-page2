@@ -193,11 +193,11 @@
 
     }
     .leader3 h1{
+        text-align: center;
         position:absolute;
         font-size: 7vw;
-        text-align: left;
         top:10vw;
-        left:3vw;
+        left:30vw;
         background: url(4.png);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -208,10 +208,11 @@
     }
 
     .leader3 h2{
+        text-align: center;
         position: absolute;
         top:42.5vw;
-        left:3.6vw;
-        font-size:3vw;
+        left:15vw;
+        font-size:3.6vw;
         color:rgba(255, 255, 255, 0.87);
         font-weight: 900;
         letter-spacing:0.01vw;
