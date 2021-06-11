@@ -189,22 +189,23 @@
 
     .leader3{
         position: relative;
-        height:90vw;
+        margin-top: 10vw;
+        height:110vw;
 
     }
     .leader3 h1{
         text-align: center;
         position:absolute;
-        font-size: 7vw;
+        font-size: 8vw;
         top:10vw;
-        left:30vw;
+        left:28vw;
         background: url(4.png);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
     .leader3 img{
         margin-left: 0;
-        width:100vw;
+        width:120vw;
     }
 
     .leader3 h2{
