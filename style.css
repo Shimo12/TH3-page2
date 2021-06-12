@@ -197,9 +197,10 @@
     .leader3 h1{
         text-align: center;
         position:absolute;
-        font-size: 8vw;
-        top:13vw;
-        left:28vw;
+        font-size: 10vw;
+        font-weight: 900;
+        top:11vw;
+        left:19vw;
         background: url(4.png);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -212,8 +213,8 @@
     .leader3 h2{
         text-align: center;
         position: absolute;
-        top:46.5vw;
-        left:12vw;
+        top:47vw;
+        left:9vw;
         font-size:4vw;
         color:rgba(255, 255, 255, 0.87);
         font-weight: 900;
@@ -229,6 +230,7 @@
     .offer h1{
         text-align: center;
         font-size:10vw;
+        font-weight: 900;
         padding-bottom:0vw;
         margin-bottom: 0vw;
         background: url(4.png);
